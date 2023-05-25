@@ -1,0 +1,14 @@
+.footer{
+    background-color: var(--spacecadetblue);
+    color: var(--grey);
+}
+
+.footerchapter {
+    color: var(--steelblue);
+}
+
+.fontfooter{
+    font-family: 'Montserrat', sans-serif;
+    font-size: smaller;
+    font-weight:bold
+}

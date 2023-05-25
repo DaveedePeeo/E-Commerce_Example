@@ -1,0 +1,46 @@
+:root{
+    --grey: #C0BCB5;
+    --giantsorange: #F86624;
+    --steelblue: #3F88C5;
+    --huntegreen: #3A5743;
+    --spacecadetblue: #1C2541;
+}
+
+body{
+    background-color: var(--grey);
+}
+
+.fontNav{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.masthead {
+    border-radius: 100px;
+    height: 50vh;
+    min-height: 500px;
+    background: radial-gradient(circle, var(--a) 0%, var(--o) 100%);
+    z-index: 2;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+    margin-top: 5%;
+    box-shadow: none;
+}
+
+.fontMh{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size:xx-large
+}
+
+.headerImg{
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+}
+
+
+
+
+
+
+
