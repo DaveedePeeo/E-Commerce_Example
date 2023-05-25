@@ -23,7 +23,7 @@
     width: 60%;
     border-radius: 1rem;
     border: none;
-    background-color: #008bf8;
+    background-color: #3A5743;
     color: #fff;
     font-size: 1rem;
     padding: .5rem 1rem;
@@ -36,17 +36,21 @@
    
    .text-body {
     color: rgb(134, 134, 134);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
    }
    
    /*Text*/
    .text-title {
     font-size: 1.5em;
     font-weight: bold;
+  
    }
    
    /*Hover*/
    .card:hover {
-    border-color: #008bf8;
+    border-color: #1C2541;
     box-shadow: 0 4px 18px 0 rgba(0, 0, 0, 0.25);
    }
    

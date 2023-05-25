@@ -25,8 +25,8 @@
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-details">
-                        <p class="text-title">Card title</p>
-                        <p class="text-body">Here are the details of the card</p>
+                        <p class="text-title text-center"><i class="fa-solid fa-box fs-1"></i></p>
+                        <p class="text-body">Spedizioni puntuali e precise con possibilità di reso</p>
                     </div>
                     <button class="card-button">More info</button>
                 </div>
@@ -34,8 +34,8 @@
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-details">
-                        <p class="text-title">Card title</p>
-                        <p class="text-body">Here are the details of the card</p>
+                        <p class="text-title text-center"><i class="fa-solid fa-trophy fs-1"></i></p>
+                        <p class="text-body">Premiato con il 98% di recensioni positive!</p>
                     </div>
                     <button class="card-button">More info</button>
                 </div>
@@ -43,8 +43,8 @@
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-details">
-                        <p class="text-title">Card title</p>
-                        <p class="text-body">Here are the details of the card</p>
+                        <p class="text-title text-center"><i class="fa-solid fa-phone fs-1"></i></p>
+                        <p class="text-body">Servizio clienti dedicato 6 giorni su 7!</p>
                     </div>
                     <button class="card-button">More info</button>
                 </div>
@@ -52,8 +52,8 @@
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-details">
-                        <p class="text-title">Card title</p>
-                        <p class="text-body">Here are the details of the card</p>
+                        <p class="text-title text-center"><i class="fa-regular fa-credit-card fs-1"></i></p>
+                        <p class="text-body">Decidi il tuo metodo di pagamento!</p>
                     </div>
                     <button class="card-button">More info</button>
                 </div>
