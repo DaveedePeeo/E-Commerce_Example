@@ -8,7 +8,7 @@
                     <img class="headerImg" src="{{ asset('images/Girl-Workplace.svg') }}" alt="Header Image">
                 </div>
                 <div class="col-md-6 text-center">
-                    <p class="fontMh fw-bold">Presto.it</p>
+                    <h1 class="fontMh fw-bold">Presto.it</h1>
                     <p class="fontMh">Vendi. Compra. Ricomincia da capo.</p>
                 </div>
                 <div class="row d-flex justify-content-center">
