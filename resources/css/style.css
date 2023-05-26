@@ -10,10 +10,23 @@ body{
     background-color: var(--grey);
 }
 
-.brandlogo {
-    width: 30px;
-    height: 30px;
+.navbar{
+    height: 90px;
 }
+
+.brandlogo {
+    width: 65px;
+    height: 65px;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+
+
+
+
+
+
 
 .fontNav{
     font-family: 'Montserrat', sans-serif;
