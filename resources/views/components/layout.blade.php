@@ -11,7 +11,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Quicksand:wght@300;400;500&display=swap"
         rel="stylesheet">
-    <title>Presto.it</title>
+    <title>{{$title ?? 'Presto.it'}}</title>
 </head>
 
 <body>

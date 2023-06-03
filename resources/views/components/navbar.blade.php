@@ -18,7 +18,7 @@
                         data-bs-toggle="dropdown" aria-expanded="false">
                         Naviga per categorie
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">Abbigliamento</a></li>
                         <li><a class="dropdown-item" href="#">Tech</a></li>
                         <li>
