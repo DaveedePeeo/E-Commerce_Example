@@ -1,7 +1,7 @@
 <x-layout>
 
 
-    <header class="masthead bg-body ">
+    <header class="masthead bg-body">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-md-6 mstimg">
